@@ -736,7 +736,7 @@ header .container .form i{
 }
 @media (max-width: 991px) {
   .testills .testimonials .bullets{
-    bottom: -20px;
+    display: none;
   }
 }
 /* End Testimonials */
